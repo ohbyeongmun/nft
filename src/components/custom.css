@@ -1,0 +1,18 @@
+#btn{
+    background-image: linear-gradient(to right, #00caeb, #0d3091);
+    border:none;
+    width:300px;
+    height:35px;
+    color:#fff;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.input{
+    width:300px;
+    height:30px;
+    border-radius: 8px;
+    border: 1px solid #BDBDBD;
+}
+#tableP{
+    text-align: center;
+}
